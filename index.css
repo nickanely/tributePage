@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    
+}
+.main{
+    height: 2000px;
+    width: 1000px;
+}
+#main-photo{
+    position:absolute; 
+    left: 10px;
+    width: 460px;
+    height: 450px;
+    border-radius: 1%;
+}
+#main-photo2{
+    position:absolute;
+    left: 480px;
+    width: 460px;
+    height: 450px;
+}
+#main-photo3{
+    position:absolute;
+    left:950px;
+    width: 460px;
+    height: 450px;
+}
+h1{
+    position: relative;
+    left: 35%;
+    top: -10px;
+    color:cyan;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 50px;
+}
+#about{
+    position:absolute;
+    top: 500px;
+    font-size: 40px;
+    color:white;
+}
+hr{
+    position: relative;
+    top: 450px;
+    color:white;
+}
+
+#content{
+    position: relative;
+    left:50px;
+    top: 520px;
+    width: 450px;
+    color: whitesmoke;
+    font-size: 18px;
+   
+}
+#with-bite{
+    position: absolute;
+    left: 550px;
+    top: 600px;
+    width: 450;
+    height:400px;
+}
